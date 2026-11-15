@@ -4,6 +4,23 @@
 
 ---
 
+# Neon Protocol 2088 - Releases
+
+Windows installer (x64, NSIS).
+Silent install: Neon-Protocol-2088-Setup-X.Y.Z.exe /S
+
+## Installer exit codes
+
+| Code | Meaning |
+|------|---------|
+| 0 | Installation successful |
+| 1 | Installation cancelled by the user |
+| other (non-zero) | Installation aborted because of an installer error (for example, not enough disk space or files in use) |
+
+No reboot is required. The installer does not download additional files.
+
+---
+
 ## Official Links
 
 - **Upgrade / Full Game (Itch.io)**: [https://digassmyid.itch.io/neon-protocol-2088](https://digassmyid.itch.io/neon-protocol-2088)
